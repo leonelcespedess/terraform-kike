@@ -1,3 +1,6 @@
+
+terraform-key.pem
+
 # Logs
 logs
 *.log
